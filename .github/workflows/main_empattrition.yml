@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'empattrition'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8392CF8F525E4F128FC3B8DCBD232F50 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D7D345401274B7491D22513F407E583 }}
